@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Process Control and Simulation"
-collection: teaching assistant
+collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022_fall_Process Control
 venue: "Lehigh University, Chemical & Biomolecular Eng."
