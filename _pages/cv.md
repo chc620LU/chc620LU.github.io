@@ -31,10 +31,10 @@ Work experience
   * Thesis: Chemistry-cognizant Molecule Design
 
 * Research Associate, 2016 - 2019
-  * Air Liquide R&D
+  * Air Liquide R&D (Process Engineering & Combustion Group)
 
 * Research Intern, 2015
-  * Solvay USA Inc.
+  * Solvay USA Inc. (Oil & Gas Group)
   
 Publications
 ======
