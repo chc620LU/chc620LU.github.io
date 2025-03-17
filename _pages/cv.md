@@ -48,16 +48,13 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Service & Leadership
+Service and leadership
 ======
 * Teaching Assistant, Chemical Engineering, Lehigh University 
   * Methods of Analysis in Chemical Engineering, 2023 Fall
   * Introduction to Process Control and Simulation, 2022 Fall
-* Webmaster, Graduate Student Association of Chemical Eng., Lehigh University
+* Webmaster, Graduate Student Association of Chemical Eng., Lehigh University, 2022 - 2023
   <!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
