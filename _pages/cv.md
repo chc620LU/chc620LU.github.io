@@ -26,14 +26,14 @@ Education
 
 Work experience
 ======
-* Graduate Research Assistant | Jan. 2021 - Jun. 2025 (Expected)
+* Graduate Research Assistant, Jan. 2021 - Jun. 2025 (Expected)
   * Research group of Dr. Rangarajan, ChBE Department, Lehigh University
   * Thesis: Chemistry-cognizant Molecule Design
 
-* Research Associate | 2016 - 2019
+* Research Associate, 2016 - 2019
   * Air Liquide R&D
 
-* Research Intern | 2015
+* Research Intern, 2015
   * Solvay USA Inc.
   
 Publications
@@ -48,11 +48,15 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching Assistant
+Service & Leadership
 ======
-  <ul>{% for post in site.teaching reversed %}
+* Teaching Assistant, Chemical Engineering, Lehigh University 
+  * Methods of Analysis in Chemical Engineering, 2023 Fall
+  * Introduction to Process Control and Simulation, 2022 Fall
+* Webmaster, Graduate Student Association of Chemical Eng., Lehigh University
+  <!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
