@@ -54,6 +54,7 @@ Service and leadership
   * Methods of Analysis in Chemical Engineering, 2023 Fall
   * Introduction to Process Control and Simulation, 2022 Fall
 * Webmaster, Graduate Student Association of Chemical Eng., Lehigh University, 2022 - 2023
+
   <!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
