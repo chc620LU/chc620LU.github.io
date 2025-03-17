@@ -11,36 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemical Engineering, Lehigh University, 2025 Jun. (expected)
+* M.S. in Chemical Engineering, Ecole Nationale Supérieure des Industries Chimiques (ENSIC)
+* B.S. in Chemical Engineering, National Cheng Kung University (NCKU)
+
+<!-- Skills
+======
+* Programming & Software
+  * Python, Linux, HPC, Parallel programming, RDKit, Avogadro, Reaction network generator (RING, SMARTS), ChemDraw, MySQL, HDF5, Docker, FastAPI, Matplotlib, Seaborn, Scikit-learn, TensorFlow, LaTeX, MS Office
+* Data Science
+  * Cheminformatics & statistical analysis, Virtual screening pipeline, Applied machine learning (NN, RL), Applied deep learning (LLMs)
+* Language
+  * Mandarin (Native), English (Fluent), French (Conversational) -->
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Assistant | Jan. 2021 - Jun. 2025 (Expected)
+  * Research group of Dr. Rangarajan, ChBE Department, Lehigh University
+  * Thesis: Chemistry-cognizant Molecule Design
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Associate | 2016 - 2019
+  * Air Liquide R&D
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Intern | 2015
+  * Solvay USA Inc.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -53,7 +48,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Assistant
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
