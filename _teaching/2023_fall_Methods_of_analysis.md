@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023_fall_Methods_of_analysis
 venue: "Lehigh University, Chemical & Biomolecular Eng."
-date: 2023-08
+date: 2023-08-01
 location: "Bethlehem, PA"
 ---
