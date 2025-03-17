@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+# Currently Open to Job Opportunity! 
 Ph.D. candidate in Chemical Engineering at Lehigh University specializing in cheminformatics, virtual screening, and machine learning techniques for molecule discovery and reaction pathway analysis. Highly motivated to tackle complex chemical problems and develop computational tools to innovate solutions benefiting both humanity and the environment.
 
 <!-- 
